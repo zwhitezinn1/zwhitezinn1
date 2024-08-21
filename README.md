@@ -12,4 +12,4 @@ Meu nome é Kawe Vicente
 
 @zwhitezinn1
 
-![descrição do GIF]((https://kittylovecats.wordpress.com/wp-content/uploads/2014/03/2.jpg))
+![https://kittylovecats.wordpress.com/wp-content/uploads/2014/03/2.jpg]
