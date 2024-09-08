@@ -12,7 +12,9 @@ Canal de Otimização para Computadores: Dicas e técnicas para melhorar o desem
   ```
 Canal de Tecnologia: Conteúdos sobre as últimas tendências e inovações tecnológicas.
   ```
-- Este espaço é dedicado à organização e compartilhamento dos projetos escolares que desenvolvo. Sinta-se à vontade para explorar e acompanhar meu trabalho.
+- Este espaço é dedicado à organização e compartilhamento dos projetos escolares que desenvolvo. Sinta-se à vontade para explorar e acompanhar meu trabalho, incluindo as colaborações com minha amiga [thamabily](https://github.com/thamabily) que enriquecem ainda mais nossos projetos.
+
+
 
 ### Contato 📫
 
